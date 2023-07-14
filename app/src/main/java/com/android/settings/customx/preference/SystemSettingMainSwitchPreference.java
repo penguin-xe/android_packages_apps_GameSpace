@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.settings.customx.preference;
+package co.aospa.settings.preference;
 
 import android.content.Context;
 import android.provider.Settings;
@@ -22,7 +22,7 @@ import android.util.AttributeSet;
 
 import com.android.settingslib.widget.MainSwitchPreference;
 
-import com.android.settings.customx.preference.SystemSettingsStore;
+import co.aospa.settings.preference.SystemSettingsStore;
 
 public class SystemSettingMainSwitchPreference extends MainSwitchPreference {
 

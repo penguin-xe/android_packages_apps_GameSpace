@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.settings.customx.preference;
+package co.aospa.settings.preference;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;

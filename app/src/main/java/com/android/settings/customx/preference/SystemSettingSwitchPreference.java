@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.customx.preference;
+package co.aospa.settings.preference;
 
 import android.content.Context;
 import android.util.AttributeSet;
