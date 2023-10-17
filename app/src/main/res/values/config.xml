@@ -16,5 +16,5 @@
 
 <resources>
     <!-- Allow user to use ANGLE in Per-app setting -->
-    <bool name="config_allow_per_app_angle_usage">true</bool>
+    <bool name="config_allow_per_app_angle_usage">false</bool>
 </resources>
