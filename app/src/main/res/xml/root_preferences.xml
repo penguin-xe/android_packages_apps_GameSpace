@@ -67,6 +67,7 @@
             android:title="@string/lock_gesture_title" />
 
         <SwitchPreference
+            android:defaultValue="true"
             android:key="gamespace_auto_brightness_disabled"
             android:title="@string/auto_brightness_disabled_title" />
 
