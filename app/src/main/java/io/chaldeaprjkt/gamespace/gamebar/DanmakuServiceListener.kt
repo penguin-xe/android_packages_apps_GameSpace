@@ -32,7 +32,7 @@ class DanmakuServiceListener : NotificationListenerService() {
     var danmakuServiceInterface: DanmakuServiceInterface? = null
 
     override fun onNotificationPosted(sbn: StatusBarNotification) {
-    if (!(danmakuServiceInterface?.danmakuNotificationMode ?: false) || !sbn.isClearable || sbn.isOngoing) return
+        if (!(danmakuServiceInterface?.danmakuNotificationMode ?: false) || !sbn.isClearable || sbn.isOngoing) return
 
         val extras = sbn.notification.extras
 

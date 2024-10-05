@@ -32,7 +32,7 @@
     <string name="three_screenshot_disabled_title">Disable swipe to screenshot</string>
     <string name="three_screenshot_disabled_summary">Temporary disable swipe to screenshot gesture while in-game</string>
     <string name="adb_disabled_title">Disable USB debugging</string>
-    <string name="adb_disabled_summary">Temporary disable USB ADB debugging while in-game</string>
+    <string name="adb_disabled_summary">Temporary disable USB debugging while in-game</string>
     <string name="gamespace_menu_opacity_title">Overlay menu opacity level</string>
 
     <!-- Notification Mode -->
@@ -67,8 +67,8 @@
 
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+    <string name="custom_seekbar_default_value">Default</string>
+    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
 
     <!-- Game overlay -->
@@ -77,7 +77,7 @@
 
     <!-- Tiles -->
     <string name="game_mode_title">Mode</string>
-    <string name="fps_Info_title">FPS info</string>
+    <string name="fps_Info_title">FPS</string>
     <string name="notification_hide">Hide</string>
     <string name="notification_headsup">Heads Up</string>
     <string name="notification_reticker">reTicker</string>
@@ -92,7 +92,7 @@
     <string name="in_game_calls_auto_reject">Auto reject</string>
     <string name="in_game_calls_received_number">Received call from %1$s</string>
     <string name="in_game_calls_rejected_number">Rejected call from %1$s</string>
-    
+
     <!-- Danmaku Notification Mode -->
     <string name="danmaku_notification_mode_title">Danmaku Notification mode</string>
     <string name="danmaku_notification_mode_summary">Show notification as danmaku aka bullet comments while game is active</string>
