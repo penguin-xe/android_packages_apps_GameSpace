@@ -39,8 +39,8 @@ class AppSettings @Inject constructor(private val context: Context) {
         set(point) = db.edit().putInt("offset_y", point).apply()
 
     var showFps
-        get() = false
-        set(_) = db.edit().putBoolean("show_fps", false).apply()
+        get() = db.getBoolean("show_fps", false)
+        set(point) = db.edit().putBoolean("show_fps", point).apply()
 
     var noAutoBrightness
         get() = db.getBoolean(KEY_AUTO_BRIGHTNESS_DISABLE, true)
