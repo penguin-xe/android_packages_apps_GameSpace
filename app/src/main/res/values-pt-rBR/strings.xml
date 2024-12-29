@@ -96,4 +96,8 @@
     <!-- Danmaku Notification Mode -->
     <string name="danmaku_notification_mode_title">Modo de notificação Danmaku</string>
     <string name="danmaku_notification_mode_summary">Mostrar notificações como balões de comentários durante o jogo</string>
+
+    <!-- Quick Start -->
+    <string name="quick_start_apps_title">Janelas flutuantes</string>
+    <string name="quick_start_apps_summary">Selecione os apps disponíveis para abrir em janelas flutuantes</string>
 </resources>
