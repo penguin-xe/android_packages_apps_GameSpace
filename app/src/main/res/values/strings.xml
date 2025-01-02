@@ -30,9 +30,9 @@
     <string name="auto_brightness_disabled_title">Disable auto-brightness</string>
     <string name="auto_brightness_disabled_summary">Keep brightness settled while in-game</string>
     <string name="three_screenshot_disabled_title">Disable swipe to screenshot</string>
-    <string name="three_screenshot_disabled_summary">Temporary disable swipe to screenshot gesture while in-game</string>
+    <string name="three_screenshot_disabled_summary">Temporarily disable the screenshot gesture while in-game</string>
     <string name="adb_disabled_title">Disable USB debugging</string>
-    <string name="adb_disabled_summary">Temporary disable USB debugging while in-game</string>
+    <string name="adb_disabled_summary">Temporarily disable USB debugging while in-game</string>
     <string name="gamespace_menu_opacity_title">Overlay menu opacity level</string>
 
     <!-- Notification Mode -->
